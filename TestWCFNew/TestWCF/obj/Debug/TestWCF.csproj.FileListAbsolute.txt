@@ -1,0 +1,6 @@
+c:\users\phean.phon\documents\visual studio 2012\Projects\TestWCFNew\TestWCF\bin\TestWCF.dll
+c:\users\phean.phon\documents\visual studio 2012\Projects\TestWCFNew\TestWCF\bin\TestWCF.pdb
+c:\users\phean.phon\documents\visual studio 2012\Projects\TestWCFNew\TestWCF\obj\Debug\TestWCF.csprojResolveAssemblyReference.cache
+c:\users\phean.phon\documents\visual studio 2012\Projects\TestWCFNew\TestWCF\obj\Debug\TestWCF.dll
+c:\users\phean.phon\documents\visual studio 2012\Projects\TestWCFNew\TestWCF\obj\Debug\TestWCF.pdb
+C:\Users\Phean.phon\Documents\Visual Studio 2012\Projects\TestWCFNew\TestWCF\bin\Newtonsoft.Json.dll
